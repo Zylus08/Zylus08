@@ -1,28 +1,49 @@
-name: Refresh repository telemetry
+name: Refresh observatory
 on:
   workflow_dispatch:
+  push:
+    branches: [main, design/profile-v2]
+    paths:
+      - '.github/workflows/telemetry.yml'
+      - 'scripts/fetch_github_data.py'
+      - 'scripts/generate_telemetry.py'
   schedule:
     - cron: '23 4 * * 1'
 permissions:
-  contents: write
+  contents: read
 concurrency:
-  group: profile-telemetry
+  group: observatory-refresh
   cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate public telemetry
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Fetch and stage a complete snapshot
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 scripts/telemetry.py
-      - name: Commit changes if needed
+        run: |
+          mkdir -p .dist/staged/data
+          cp data/github_snapshot.json .dist/staged/data/github_snapshot.json
+          python3 scripts/fetch_github_data.py --output .dist/staged/data/github_snapshot.json
+          python3 scripts/generate_telemetry.py --snapshot .dist/staged/data/github_snapshot.json --output .dist/staged
+          python3 scripts/validate_assets.py --telemetry-root .dist/staged
+      - name: Publish validated snapshot and assets
+        run: |
+          cp .dist/staged/data/github_snapshot.json data/github_snapshot.json
+          cp .dist/staged/data/telemetry.md data/telemetry.md
+          cp .dist/staged/assets/telemetry/*.svg assets/telemetry/
+          cp .dist/staged/assets/skyline/*.svg assets/skyline/
+          python3 scripts/validate_assets.py
+      - name: Commit meaningful changes
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/telemetry.svg
+          git add data/github_snapshot.json data/telemetry.md assets/telemetry assets/skyline
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh public repository telemetry'
+            git commit -m 'chore: refresh public observatory snapshot'
             git push
           fi
