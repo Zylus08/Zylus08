@@ -6,11 +6,11 @@
 </picture>
 
 <p>
-<a href="https://sakshamkumarmishra.cv"><img src="assets/navigation/portfolio.svg" alt="Portfolio" width="184" /></a>
-<a href="https://github.com/Zylus08?tab=repositories"><img src="assets/navigation/repositories.svg" alt="Public repositories" width="184" /></a>
-<a href="https://www.linkedin.com/in/saksham-mishra-ml/"><img src="assets/navigation/linkedin.svg" alt="LinkedIn" width="184" /></a>
-<a href="https://sakshamkumarmishra.cv/documents/Saksham_Mishra_CV.pdf"><img src="assets/navigation/cv.svg" alt="Academic CV (PDF)" width="184" /></a>
-<a href="mailto:mishrasaksham080705@gmail.com"><img src="assets/navigation/email.svg" alt="Email Saksham" width="184" /></a>
+<a href="https://sakshamkumarmishra.cv"><img src="assets/navigation/portfolio.svg" alt="Portfolio" width="160" /></a>
+<a href="https://github.com/Zylus08?tab=repositories"><img src="assets/navigation/repositories.svg" alt="Public repositories" width="160" /></a>
+<a href="https://www.linkedin.com/in/saksham-mishra-ml/"><img src="assets/navigation/linkedin.svg" alt="LinkedIn" width="160" /></a>
+<a href="https://sakshamkumarmishra.cv/documents/Saksham_Mishra_CV.pdf"><img src="assets/navigation/cv.svg" alt="Academic CV (PDF)" width="160" /></a>
+<a href="mailto:mishrasaksham080705@gmail.com"><img src="assets/navigation/email.svg" alt="Email Saksham" width="160" /></a>
 </p>
 
 ## 01 / Operator profile
@@ -31,6 +31,8 @@ Four investigations into the machinery beneath familiar abstractions. Open a dos
 </p>
 
 **Boundaries matter.** AXIOM and PRAXIS implement deliberate language subsets. FORGE’s end-to-end acceleration target was **not achieved**. VECTRA’s sustained-throughput objective remains **partial**. Release labels describe repository milestones, not independent certification.
+
+Also exploring [fault-tolerant compute scheduling](https://github.com/Zylus08/Fault-tolerant-Compute-Scheduler), with Raft and a distributed control plane.
 
 ## 03 / Machine intelligence
 

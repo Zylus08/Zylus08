@@ -1,0 +1,2 @@
+# Runtime generation, telemetry and tests use Python 3.10+ standard library only.
+# Optional local preview: Python-Markdown and PyYAML (not needed by Actions).

@@ -1,0 +1,17 @@
+{
+  "workflows_yaml_and_policy": [
+    "telemetry.yml",
+    "validate.yml"
+  ],
+  "icons_hash_verified": 16,
+  "secret_pattern_files_scanned": 97,
+  "text_contrast_on_panel": {
+    "paper": 16.29,
+    "muted": 8.88,
+    "cyan": 11.94,
+    "blue": 6.98,
+    "orange": 8.76,
+    "lavender": 8.64
+  },
+  "note": "Pattern scan is not proof of absence of every possible secret; YAML check is not an actionlint or live workflow result."
+}

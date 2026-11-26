@@ -1,0 +1,32 @@
+name: Validate profile
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    paths-ignore:
+      - 'data/github_snapshot.json'
+      - 'data/telemetry.md'
+      - 'assets/telemetry/**'
+      - 'assets/skyline/**'
+permissions:
+  contents: read
+concurrency:
+  group: profile-validation-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Test data integrity and failure behavior
+        run: python3 -m unittest discover -s tests -v
+      - name: Regenerate all profile assets
+        run: |
+          python3 scripts/generate_assets.py
+          python3 scripts/generate_telemetry.py
+          python3 scripts/assemble_readme.py
+          python3 scripts/validate_assets.py
+          git diff --exit-code -- README.md assets data/technologies.json data/telemetry.md
