@@ -42,7 +42,8 @@ def lorenz():
 
 def attractor(x,y,w,h,color=None):
     points=lorenz(); xs=[v[0] for v in points]; zs=[v[2] for v in points]
-    pts=[(x+(a-min(xs))/(max(xs)-min(xs))*w,y+h-(z-min(zs))/(max(zs)-min(zs))*h) for a,_,z in points]
+    xmin,xspan=min(xs),max(xs)-min(xs); zmin,zspan=min(zs),max(zs)-min(zs)
+    pts=[(x+(a-xmin)/xspan*w,y+h-(z-zmin)/zspan*h) for a,_,z in points]
     return ''.join(path(pts[i:i+181],color or C['cyan'],0.9,0.55+(i%360)/800) for i in range(0,len(pts)-1,180))
 
 def concepts():
