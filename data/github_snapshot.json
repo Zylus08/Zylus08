@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "owner": "Zylus08",
-  "fetched_at": "2026-11-26T13:48:02Z",
-  "repository_source": "Connected GitHub REST: public repository search + individual /repos/Zylus08/{repo} metadata; 2026-11-26",
+  "fetched_at": "2026-11-26T14:02:06Z",
+  "repository_source": "GitHub REST /users/Zylus08/repos (paginated)",
   "repositories": [
     {
       "name": "AI-Interview-backend",
@@ -735,7 +735,7 @@
     {
       "name": "TradeCore",
       "html_url": "https://github.com/Zylus08/TradeCore",
-      "description": "TradeCore v1.0 \u00e2\u20ac\u201d a deterministic, low-latency exchange simulation engine with zero-allocation hot paths, replay validation, compile-time risk checks, telemetry, and performance-contract enforcement.",
+      "description": "TradeCore v1.0 \u2014 a deterministic, low-latency exchange simulation engine with zero-allocation hot paths, replay validation, compile-time risk checks, telemetry, and performance-contract enforcement.",
       "fork": false,
       "archived": false,
       "private": false,
@@ -807,14 +807,14 @@
       "language": "Python",
       "stargazers_count": 0,
       "forks_count": 0,
-      "pushed_at": "2026-11-26T13:02:23Z",
+      "pushed_at": "2026-11-26T14:01:54Z",
       "default_branch": "main"
     }
   ],
   "calendar": {
     "source": "https://github.com/users/Zylus08/contributions",
     "visibility": "Public profile calendar; may include anonymized private contributions if owner enables them. No private repository details.",
-    "raw_sha256": "e58da37f84977ece28a9bf475ae04019206ed3492d3181223396b54a8a8d7362",
+    "raw_sha256": "89ff84fa6b8b06e020cdfb3ac307184341a09b6d34eafaa4ac3c8ef2348a79d7",
     "days": [
       {
         "date": "2025-11-27",
