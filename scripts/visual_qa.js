@@ -17,7 +17,7 @@ async(page)=>{
   await page.goto('file:///E:/Zylus08-profile/'+f);
   const check=await page.evaluate(()=>{
    const root=document.documentElement,v=root.viewBox.baseVal;
-   const ctx=document.createElement('canvas').getContext('2d');
+   const ctx=document.createElementNS('http://www.w3.org/1999/xhtml','canvas').getContext('2d');
    const texts=[...document.querySelectorAll('text')].map(t=>{const box=t.getBBox(),cs=getComputedStyle(t);ctx.font=cs.fontWeight+' '+cs.fontSize+' '+cs.fontFamily;const ink=ctx.measureText(t.textContent);return {text:t.textContent,b:{x:box.x,y:Number(t.getAttribute('y'))-ink.actualBoundingBoxAscent,width:box.width,height:ink.actualBoundingBoxAscent+ink.actualBoundingBoxDescent}};});
    const clipped=texts.filter(({b})=>b.x<0||b.y<0||b.x+b.width>v.width+.1||b.y+b.height>v.height+.1).map(t=>t.text);
    const overlaps=[];

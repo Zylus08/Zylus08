@@ -14,5 +14,7 @@ def main():
             html=f'<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="{ROOT.as_uri()}/"><style>{CSS}</style><title>Zylus {version} / {theme} preview</title></head><body class="{theme}"><article>{body}</article></body></html>'
             save(f'reports/preview/{version}-{theme}.html',html)
     print('Local light/dark before/after previews built')
+    comparison='<html><head><meta charset="utf-8"><style>body{margin:0;background:#10141c;color:#f1f1ee;font:18px Arial;padding:28px}h1{font-size:30px}main{display:flex;gap:24px}.column{width:460px}figure{margin:0;height:660px;overflow:hidden;border:1px solid #263244}img{width:100%}p{color:#a9b5c6}</style></head><body><h1>ZYLUS / FROM DOCUMENT TO OBSERVATORY</h1><main><div class="column"><p>BEFORE / V1</p><figure><img src="../screenshots/before-dark-1100.png"></figure></div><div class="column"><p>AFTER / V2 · TOP EXCERPT</p><figure><img src="../screenshots/after-dark-1100.png"></figure></div></main></body></html>'
+    save('reports/preview/comparison.html',comparison)
 
 if __name__=='__main__':main()

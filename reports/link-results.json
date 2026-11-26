@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://github.com/Zylus08/Axiom",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Axiom"
+  },
+  {
+    "url": "https://github.com/Zylus08/PRAXIS",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/PRAXIS"
+  },
+  {
+    "url": "https://github.com/Zylus08/FORGE",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/FORGE"
+  },
+  {
+    "url": "https://github.com/Zylus08/VECTRA",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/VECTRA"
+  },
+  {
+    "url": "https://github.com/Zylus08/NOMOS",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/NOMOS"
+  },
+  {
+    "url": "https://github.com/Zylus08/Project-Janus",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Project-Janus"
+  },
+  {
+    "url": "https://github.com/Zylus08/RoadVision",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/RoadVision"
+  },
+  {
+    "url": "https://github.com/Zylus08/Rolls-Royce-Aerospace-RUL",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Rolls-Royce-Aerospace-RUL"
+  },
+  {
+    "url": "https://github.com/Zylus08/Thermodynamic-Evolution-UCS503",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Thermodynamic-Evolution-UCS503"
+  },
+  {
+    "url": "https://github.com/Zylus08/Neural-Surrogate-Monte-Carlo-Collision-Simulator",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Neural-Surrogate-Monte-Carlo-Collision-Simulator"
+  },
+  {
+    "url": "https://github.com/Zylus08/Satoshi_Flow",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Satoshi_Flow"
+  },
+  {
+    "url": "https://github.com/Zylus08/TradeCore",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/TradeCore"
+  },
+  {
+    "url": "https://github.com/Zylus08/Regime-Shift",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Regime-Shift"
+  },
+  {
+    "url": "https://github.com/Zylus08/RiskLab",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/RiskLab"
+  },
+  {
+    "url": "https://github.com/Zylus08/DeepHedge-RL",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/DeepHedge-RL"
+  },
+  {
+    "url": "https://github.com/Zylus08/AQC",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/AQC"
+  },
+  {
+    "url": "https://github.com/Zylus08/Fault-tolerant-Compute-Scheduler",
+    "status": 200,
+    "destination": "https://github.com/Zylus08/Fault-tolerant-Compute-Scheduler"
+  },
+  {
+    "url": "https://sakshamkumarmishra.cv",
+    "status": 200,
+    "destination": "https://www.sakshamkumarmishra.cv/"
+  },
+  {
+    "url": "https://sakshamkumarmishra.cv/documents/Saksham_Mishra_CV.pdf",
+    "status": 200,
+    "destination": "https://www.sakshamkumarmishra.cv/documents/Saksham_Mishra_CV.pdf"
+  },
+  {
+    "url": "https://www.linkedin.com/in/saksham-mishra-ml/",
+    "status": 999,
+    "note": "HTTP response; may be access protection rather than a missing destination"
+  }
+]
