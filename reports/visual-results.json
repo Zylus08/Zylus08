@@ -1,0 +1,62 @@
+{
+  "layouts": [
+    {
+      "theme": "dark",
+      "width": 1100,
+      "overflow": false,
+      "broken": [],
+      "height": 6668
+    },
+    {
+      "theme": "dark",
+      "width": 850,
+      "overflow": false,
+      "broken": [],
+      "height": 9225
+    },
+    {
+      "theme": "dark",
+      "width": 600,
+      "overflow": false,
+      "broken": [],
+      "height": 10542
+    },
+    {
+      "theme": "dark",
+      "width": 375,
+      "overflow": false,
+      "broken": [],
+      "height": 8614
+    },
+    {
+      "theme": "light",
+      "width": 1100,
+      "overflow": false,
+      "broken": [],
+      "height": 6668
+    },
+    {
+      "theme": "light",
+      "width": 850,
+      "overflow": false,
+      "broken": [],
+      "height": 9225
+    },
+    {
+      "theme": "light",
+      "width": 600,
+      "overflow": false,
+      "broken": [],
+      "height": 10542
+    },
+    {
+      "theme": "light",
+      "width": 375,
+      "overflow": false,
+      "broken": [],
+      "height": 8614
+    }
+  ],
+  "svgCount": 54,
+  "svgErrors": []
+}

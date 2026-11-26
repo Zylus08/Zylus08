@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Python",
+    "icon": "python",
+    "domain": "LANGUAGES"
+  },
+  {
+    "name": "C++",
+    "icon": "cplusplus",
+    "domain": "LANGUAGES"
+  },
+  {
+    "name": "Rust",
+    "icon": "rust",
+    "domain": "LANGUAGES"
+  },
+  {
+    "name": "Go",
+    "icon": "go",
+    "domain": "LANGUAGES"
+  },
+  {
+    "name": "CMake",
+    "icon": "cmake",
+    "domain": "SYSTEMS & INFRASTRUCTURE"
+  },
+  {
+    "name": "Docker",
+    "icon": "docker",
+    "domain": "SYSTEMS & INFRASTRUCTURE"
+  },
+  {
+    "name": "Git",
+    "icon": "git",
+    "domain": "SYSTEMS & INFRASTRUCTURE"
+  },
+  {
+    "name": "Actions",
+    "icon": "githubactions",
+    "domain": "SYSTEMS & INFRASTRUCTURE"
+  },
+  {
+    "name": "PyTorch",
+    "icon": "pytorch",
+    "domain": "MACHINE & SCIENTIFIC COMPUTING"
+  },
+  {
+    "name": "NumPy",
+    "icon": "numpy",
+    "domain": "MACHINE & SCIENTIFIC COMPUTING"
+  },
+  {
+    "name": "pandas",
+    "icon": "pandas",
+    "domain": "MACHINE & SCIENTIFIC COMPUTING"
+  },
+  {
+    "name": "scikit-learn",
+    "icon": "scikitlearn",
+    "domain": "MACHINE & SCIENTIFIC COMPUTING"
+  },
+  {
+    "name": "React",
+    "icon": "react",
+    "domain": "APPLICATION ENGINEERING"
+  },
+  {
+    "name": "Vite",
+    "icon": "vite",
+    "domain": "APPLICATION ENGINEERING"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "typescript",
+    "domain": "APPLICATION ENGINEERING"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "javascript",
+    "domain": "APPLICATION ENGINEERING"
+  }
+]

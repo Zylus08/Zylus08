@@ -1,0 +1,34 @@
+[
+  {
+    "repo": "Axiom",
+    "tag": "v0.1.0",
+    "title": "AXIOM v0.1.0 — First Public Release | From-Scratch Analytical SQL Engine",
+    "date": "2026-11-14T07:34:16Z",
+    "url": "https://github.com/Zylus08/Axiom/releases/tag/v0.1.0",
+    "prerelease": false
+  },
+  {
+    "repo": "PRAXIS",
+    "tag": "v0.1.0",
+    "title": "PRAXIS v0.1.0 — A C++ Interpreter Built From First Principles",
+    "date": "2026-11-16T07:49:11Z",
+    "url": "https://github.com/Zylus08/PRAXIS/releases/tag/v0.1.0",
+    "prerelease": false
+  },
+  {
+    "repo": "FORGE",
+    "tag": "v0.1.0",
+    "title": "FORGE v0.1.0-rc1 — Experimental CPU Training Framework",
+    "date": "2026-11-17T17:43:49Z",
+    "url": "https://github.com/Zylus08/FORGE/releases/tag/v0.1.0",
+    "prerelease": false
+  },
+  {
+    "repo": "VECTRA",
+    "tag": "v0.1.0-rc1",
+    "title": "VECTRA v0.1.0-rc1 — From-Scratch Quantized CPU LLM Inference Engine",
+    "date": "2026-11-19T08:27:30Z",
+    "url": "https://github.com/Zylus08/VECTRA/releases/tag/v0.1.0-rc1",
+    "prerelease": true
+  }
+]

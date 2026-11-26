@@ -1,0 +1,82 @@
+[
+  {
+    "theme": "dark",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/hero.svg",
+    "bg": "rgb(13, 17, 23)",
+    "viewport": 1100,
+    "articleWidth": 643
+  },
+  {
+    "theme": "dark",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/hero.svg",
+    "bg": "rgb(13, 17, 23)",
+    "viewport": 850,
+    "articleWidth": 474
+  },
+  {
+    "theme": "dark",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/mobile.svg",
+    "bg": "rgb(13, 17, 23)",
+    "viewport": 600,
+    "articleWidth": 487
+  },
+  {
+    "theme": "dark",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/mobile.svg",
+    "bg": "rgb(13, 17, 23)",
+    "viewport": 375,
+    "articleWidth": 294
+  },
+  {
+    "theme": "light",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/hero.svg",
+    "bg": "rgb(255, 255, 255)",
+    "viewport": 1100,
+    "articleWidth": 643
+  },
+  {
+    "theme": "light",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/hero.svg",
+    "bg": "rgb(255, 255, 255)",
+    "viewport": 850,
+    "articleWidth": 474
+  },
+  {
+    "theme": "light",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/mobile.svg",
+    "bg": "rgb(255, 255, 255)",
+    "viewport": 600,
+    "articleWidth": 487
+  },
+  {
+    "theme": "light",
+    "overflow": false,
+    "images": 32,
+    "broken": [],
+    "hero": "https://github.com/Zylus08/Zylus08/raw/design/profile-v2/assets/hero/mobile.svg",
+    "bg": "rgb(255, 255, 255)",
+    "viewport": 375,
+    "articleWidth": 294
+  }
+]

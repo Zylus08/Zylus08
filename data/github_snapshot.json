@@ -1,0 +1,2281 @@
+{
+  "schema": 1,
+  "owner": "Zylus08",
+  "fetched_at": "2026-11-26T14:02:06Z",
+  "repository_source": "GitHub REST /users/Zylus08/repos (paginated)",
+  "repositories": [
+    {
+      "name": "AI-Interview-backend",
+      "html_url": "https://github.com/Zylus08/AI-Interview-backend",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-23T15:47:06Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Aircraft-Dashboard",
+      "html_url": "https://github.com/Zylus08/Aircraft-Dashboard",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-04-09T18:20:39Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Amazon-delivery-AI-project",
+      "html_url": "https://github.com/Zylus08/Amazon-delivery-AI-project",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 2,
+      "pushed_at": "2026-10-31T10:43:23Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "AQC",
+      "html_url": "https://github.com/Zylus08/AQC",
+      "description": "Modular quantitative finance framework with event-driven backtesting, portfolio optimization, execution simulation, market microstructure, and alpha research.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-15T21:28:19Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Axiom",
+      "html_url": "https://github.com/Zylus08/Axiom",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-14T08:10:33Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "big5-chatbot",
+      "html_url": "https://github.com/Zylus08/big5-chatbot",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-11T18:09:38Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Casequest-25",
+      "html_url": "https://github.com/Zylus08/Casequest-25",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-11-17T12:34:32Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DAALab_asgt1",
+      "html_url": "https://github.com/Zylus08/DAALab_asgt1",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-21T08:58:23Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DAALab_asgt2",
+      "html_url": "https://github.com/Zylus08/DAALab_asgt2",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-02-11T08:23:15Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "dbms-project",
+      "html_url": "https://github.com/Zylus08/dbms-project",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-05-07T19:27:28Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DeepHedge-RL",
+      "html_url": "https://github.com/Zylus08/DeepHedge-RL",
+      "description": "Constrained reinforcement learning framework for dynamic intraday options hedging with Maskable PPO, action masking, and realistic market constraints.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-07T06:12:44Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt10_hashing",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt10_hashing",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-12-03T23:54:14Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt1_arrays",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt1_arrays",
+      "description": "Data Structures Lab Assignment 1- Arrays",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-08-12T17:53:52Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt2",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt2",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-08-21T17:50:05Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt3_stacks",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt3_stacks",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-08-27T19:07:18Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt4_queues",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt4_queues",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-09-19T06:23:41Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt5_SLL",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt5_SLL",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-10-22T17:18:49Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt6_DLL-CLL",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt6_DLL-CLL",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-10-22T19:26:16Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt7_sorting",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt7_sorting",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-11-07T17:57:40Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt8_BST",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt8_BST",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-11-27T21:44:48Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "DSLab_asgt9",
+      "html_url": "https://github.com/Zylus08/DSLab_asgt9",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-11-27T21:57:29Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "E-summit-26-app",
+      "html_url": "https://github.com/Zylus08/E-summit-26-app",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Dart",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-18T20:08:45Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Fault-tolerant-Compute-Scheduler",
+      "html_url": "https://github.com/Zylus08/Fault-tolerant-Compute-Scheduler",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-11T20:18:28Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Finger-Counter",
+      "html_url": "https://github.com/Zylus08/Finger-Counter",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-01-15T12:21:48Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "FlowState",
+      "html_url": "https://github.com/Zylus08/FlowState",
+      "description": "High-Frequency Market Making Research Framework",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T03:56:11Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "FORGE",
+      "html_url": "https://github.com/Zylus08/FORGE",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-17T17:43:49Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "gpt2",
+      "html_url": "https://github.com/Zylus08/gpt2",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-03-25T08:12:09Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "helmet-main",
+      "html_url": "https://github.com/Zylus08/helmet-main",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-06-06T18:05:03Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "IIH-app",
+      "html_url": "https://github.com/Zylus08/IIH-app",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Dart",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-12-27T11:13:38Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "IPS",
+      "html_url": "https://github.com/Zylus08/IPS",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-06-28T13:31:33Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "JAVA_Asgt6",
+      "html_url": "https://github.com/Zylus08/JAVA_Asgt6",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-24T18:17:10Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "JAVA_Lab_Assignment-2",
+      "html_url": "https://github.com/Zylus08/JAVA_Lab_Assignment-2",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-19T17:07:40Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Kamish",
+      "html_url": "https://github.com/Zylus08/Kamish",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "Rust",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-07T05:11:11Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "MeshNet",
+      "html_url": "https://github.com/Zylus08/MeshNet",
+      "description": "A modular, decentralized, delay-tolerant networking framework for Android featuring pluggable transports, secure end-to-end messaging, offline mapping, community reporting, simulation tooling, and comprehensive technical documentation.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Kotlin",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-27T15:36:29Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "mlsc-timetable",
+      "html_url": "https://github.com/Zylus08/mlsc-timetable",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Go",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-30T19:16:49Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Neural-Surrogate-Monte-Carlo-Collision-Simulator",
+      "html_url": "https://github.com/Zylus08/Neural-Surrogate-Monte-Carlo-Collision-Simulator",
+      "description": "Hybrid Monte Carlo + Neural surrogate simulator for high-energy particle collisions with interactive dashboard",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-03-26T23:48:05Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "NOMOS",
+      "html_url": "https://github.com/Zylus08/NOMOS",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-25T08:51:31Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "Peer-Share",
+      "html_url": "https://github.com/Zylus08/Peer-Share",
+      "description": "PeerShare is a desktop app for sharing files between computers on the same local network, even without internet access.",
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-25T10:09:49Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Practical-task1",
+      "html_url": "https://github.com/Zylus08/Practical-task1",
+      "description": "Practical task of BlockSeBlock blockchain internship Task-1",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-06-08T17:54:25Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "PRAXIS",
+      "html_url": "https://github.com/Zylus08/PRAXIS",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-16T07:49:11Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Project-Janus",
+      "html_url": "https://github.com/Zylus08/Project-Janus",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-16T19:32:38Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "Quantstorm-IITD",
+      "html_url": "https://github.com/Zylus08/Quantstorm-IITD",
+      "description": "The Official QuantStorm 2026 repo hosted by QATC IITD X FEC IITG X Quant Club IITB",
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-17T09:55:54Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Ratan-Tata-Innovation-Hub-hack",
+      "html_url": "https://github.com/Zylus08/Ratan-Tata-Innovation-Hub-hack",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-03-03T08:08:10Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Regime-Shift",
+      "html_url": "https://github.com/Zylus08/Regime-Shift",
+      "description": "Institutional-style quantitative research framework for market regime detection and dynamic asset allocation using Hidden Markov Models, walk-forward validation, convex portfolio optimization, and statistical model selection.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-10T21:26:12Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "regime-sih",
+      "html_url": "https://github.com/Zylus08/regime-sih",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-09-26T19:20:00Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "resume_jd_match",
+      "html_url": "https://github.com/Zylus08/resume_jd_match",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-14T19:39:44Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "RiskLab",
+      "html_url": "https://github.com/Zylus08/RiskLab",
+      "description": "Research framework for systematic portfolio construction, risk management, volatility targeting, and quantitative strategy evaluation.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T11:13:32Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "RoadVision",
+      "html_url": "https://github.com/Zylus08/RoadVision",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 1,
+      "pushed_at": "2026-11-24T16:50:39Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Rolls-Royce-Aerospace-RUL",
+      "html_url": "https://github.com/Zylus08/Rolls-Royce-Aerospace-RUL",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 2,
+      "pushed_at": "2026-04-11T08:26:09Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "SakshamKumarMishra-Portfolio",
+      "html_url": "https://github.com/Zylus08/SakshamKumarMishra-Portfolio",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "MDX",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-19T17:38:08Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sat-app-26",
+      "html_url": "https://github.com/Zylus08/Sat-app-26",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-09-13T18:19:47Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Satoshi_Flow",
+      "html_url": "https://github.com/Zylus08/Satoshi_Flow",
+      "description": "Research-grade quantitative backtesting framework for systematic trading research. Features event-driven simulation, lookahead-free execution, ATR-based risk management, walk-forward validation, realistic transaction costs, and automated performance analytics.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-10T17:25:22Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "skm_working_on_if_portal",
+      "html_url": "https://github.com/Zylus08/skm_working_on_if_portal",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-01-23T14:08:05Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "SleepApnea",
+      "html_url": "https://github.com/Zylus08/SleepApnea",
+      "description": "OpenNeuro dataset - A Comprehensive Multimodal Dataset for Investigating Cognitive Impairment in Obstructive Sleep Apnea",
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-09-25T05:09:40Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Thermodynamic-Evolution-UCS503",
+      "html_url": "https://github.com/Zylus08/Thermodynamic-Evolution-UCS503",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": "Go",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-18T17:05:16Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "TI-talks",
+      "html_url": "https://github.com/Zylus08/TI-talks",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-04-25T16:46:26Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "TradeCore",
+      "html_url": "https://github.com/Zylus08/TradeCore",
+      "description": "TradeCore v1.0 \u2014 a deterministic, low-latency exchange simulation engine with zero-allocation hot paths, replay validation, compile-time risk checks, telemetry, and performance-contract enforcement.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-23T17:55:45Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "valentine",
+      "html_url": "https://github.com/Zylus08/valentine",
+      "description": "A cute valentine proposal to ask out my crush with a persistent asking of 18 times.",
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-02-14T14:05:04Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "VCF-maker",
+      "html_url": "https://github.com/Zylus08/VCF-maker",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-06-03T05:34:44Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "VECTRA",
+      "html_url": "https://github.com/Zylus08/VECTRA",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "C++",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-18T18:49:00Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "visdom",
+      "html_url": "https://github.com/Zylus08/visdom",
+      "description": "A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy",
+      "fork": true,
+      "archived": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-03-26T19:58:36Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "Zylus08",
+      "html_url": "https://github.com/Zylus08/Zylus08",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-26T14:01:54Z",
+      "default_branch": "main"
+    }
+  ],
+  "calendar": {
+    "source": "https://github.com/users/Zylus08/contributions",
+    "visibility": "Public profile calendar; may include anonymized private contributions if owner enables them. No private repository details.",
+    "raw_sha256": "89ff84fa6b8b06e020cdfb3ac307184341a09b6d34eafaa4ac3c8ef2348a79d7",
+    "days": [
+      {
+        "date": "2025-11-27",
+        "count": 2
+      },
+      {
+        "date": "2025-11-28",
+        "count": 4
+      },
+      {
+        "date": "2025-11-29",
+        "count": 0
+      },
+      {
+        "date": "2025-11-30",
+        "count": 0
+      },
+      {
+        "date": "2025-12-01",
+        "count": 0
+      },
+      {
+        "date": "2025-12-02",
+        "count": 0
+      },
+      {
+        "date": "2025-12-03",
+        "count": 1
+      },
+      {
+        "date": "2025-12-04",
+        "count": 1
+      },
+      {
+        "date": "2025-12-05",
+        "count": 0
+      },
+      {
+        "date": "2025-12-06",
+        "count": 0
+      },
+      {
+        "date": "2025-12-07",
+        "count": 0
+      },
+      {
+        "date": "2025-12-08",
+        "count": 0
+      },
+      {
+        "date": "2025-12-09",
+        "count": 0
+      },
+      {
+        "date": "2025-12-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-12",
+        "count": 0
+      },
+      {
+        "date": "2025-12-13",
+        "count": 0
+      },
+      {
+        "date": "2025-12-14",
+        "count": 0
+      },
+      {
+        "date": "2025-12-15",
+        "count": 0
+      },
+      {
+        "date": "2025-12-16",
+        "count": 0
+      },
+      {
+        "date": "2025-12-17",
+        "count": 0
+      },
+      {
+        "date": "2025-12-18",
+        "count": 0
+      },
+      {
+        "date": "2025-12-19",
+        "count": 0
+      },
+      {
+        "date": "2025-12-20",
+        "count": 0
+      },
+      {
+        "date": "2025-12-21",
+        "count": 0
+      },
+      {
+        "date": "2025-12-22",
+        "count": 0
+      },
+      {
+        "date": "2025-12-23",
+        "count": 1
+      },
+      {
+        "date": "2025-12-24",
+        "count": 0
+      },
+      {
+        "date": "2025-12-25",
+        "count": 12
+      },
+      {
+        "date": "2025-12-26",
+        "count": 0
+      },
+      {
+        "date": "2025-12-27",
+        "count": 2
+      },
+      {
+        "date": "2025-12-28",
+        "count": 0
+      },
+      {
+        "date": "2025-12-29",
+        "count": 8
+      },
+      {
+        "date": "2025-12-30",
+        "count": 11
+      },
+      {
+        "date": "2025-12-31",
+        "count": 2
+      },
+      {
+        "date": "2026-01-01",
+        "count": 0
+      },
+      {
+        "date": "2026-01-02",
+        "count": 0
+      },
+      {
+        "date": "2026-01-03",
+        "count": 0
+      },
+      {
+        "date": "2026-01-04",
+        "count": 0
+      },
+      {
+        "date": "2026-01-05",
+        "count": 0
+      },
+      {
+        "date": "2026-01-06",
+        "count": 0
+      },
+      {
+        "date": "2026-01-07",
+        "count": 0
+      },
+      {
+        "date": "2026-01-08",
+        "count": 0
+      },
+      {
+        "date": "2026-01-09",
+        "count": 0
+      },
+      {
+        "date": "2026-01-10",
+        "count": 0
+      },
+      {
+        "date": "2026-01-11",
+        "count": 0
+      },
+      {
+        "date": "2026-01-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-14",
+        "count": 3
+      },
+      {
+        "date": "2026-01-15",
+        "count": 4
+      },
+      {
+        "date": "2026-01-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-17",
+        "count": 2
+      },
+      {
+        "date": "2026-01-18",
+        "count": 2
+      },
+      {
+        "date": "2026-01-19",
+        "count": 1
+      },
+      {
+        "date": "2026-01-20",
+        "count": 3
+      },
+      {
+        "date": "2026-01-21",
+        "count": 0
+      },
+      {
+        "date": "2026-01-22",
+        "count": 1
+      },
+      {
+        "date": "2026-01-23",
+        "count": 2
+      },
+      {
+        "date": "2026-01-24",
+        "count": 0
+      },
+      {
+        "date": "2026-01-25",
+        "count": 0
+      },
+      {
+        "date": "2026-01-26",
+        "count": 8
+      },
+      {
+        "date": "2026-01-27",
+        "count": 1
+      },
+      {
+        "date": "2026-01-28",
+        "count": 3
+      },
+      {
+        "date": "2026-01-29",
+        "count": 1
+      },
+      {
+        "date": "2026-01-30",
+        "count": 1
+      },
+      {
+        "date": "2026-01-31",
+        "count": 1
+      },
+      {
+        "date": "2026-02-01",
+        "count": 3
+      },
+      {
+        "date": "2026-02-02",
+        "count": 0
+      },
+      {
+        "date": "2026-02-03",
+        "count": 0
+      },
+      {
+        "date": "2026-02-04",
+        "count": 1
+      },
+      {
+        "date": "2026-02-05",
+        "count": 1
+      },
+      {
+        "date": "2026-02-06",
+        "count": 5
+      },
+      {
+        "date": "2026-02-07",
+        "count": 0
+      },
+      {
+        "date": "2026-02-08",
+        "count": 1
+      },
+      {
+        "date": "2026-02-09",
+        "count": 0
+      },
+      {
+        "date": "2026-02-10",
+        "count": 0
+      },
+      {
+        "date": "2026-02-11",
+        "count": 2
+      },
+      {
+        "date": "2026-02-12",
+        "count": 0
+      },
+      {
+        "date": "2026-02-13",
+        "count": 0
+      },
+      {
+        "date": "2026-02-14",
+        "count": 1
+      },
+      {
+        "date": "2026-02-15",
+        "count": 0
+      },
+      {
+        "date": "2026-02-16",
+        "count": 0
+      },
+      {
+        "date": "2026-02-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-18",
+        "count": 1
+      },
+      {
+        "date": "2026-02-19",
+        "count": 2
+      },
+      {
+        "date": "2026-02-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-21",
+        "count": 0
+      },
+      {
+        "date": "2026-02-22",
+        "count": 0
+      },
+      {
+        "date": "2026-02-23",
+        "count": 0
+      },
+      {
+        "date": "2026-02-24",
+        "count": 0
+      },
+      {
+        "date": "2026-02-25",
+        "count": 0
+      },
+      {
+        "date": "2026-02-26",
+        "count": 0
+      },
+      {
+        "date": "2026-02-27",
+        "count": 0
+      },
+      {
+        "date": "2026-02-28",
+        "count": 0
+      },
+      {
+        "date": "2026-03-01",
+        "count": 0
+      },
+      {
+        "date": "2026-03-02",
+        "count": 0
+      },
+      {
+        "date": "2026-03-03",
+        "count": 0
+      },
+      {
+        "date": "2026-03-04",
+        "count": 1
+      },
+      {
+        "date": "2026-03-05",
+        "count": 0
+      },
+      {
+        "date": "2026-03-06",
+        "count": 0
+      },
+      {
+        "date": "2026-03-07",
+        "count": 0
+      },
+      {
+        "date": "2026-03-08",
+        "count": 0
+      },
+      {
+        "date": "2026-03-09",
+        "count": 0
+      },
+      {
+        "date": "2026-03-10",
+        "count": 0
+      },
+      {
+        "date": "2026-03-11",
+        "count": 0
+      },
+      {
+        "date": "2026-03-12",
+        "count": 0
+      },
+      {
+        "date": "2026-03-13",
+        "count": 0
+      },
+      {
+        "date": "2026-03-14",
+        "count": 0
+      },
+      {
+        "date": "2026-03-15",
+        "count": 0
+      },
+      {
+        "date": "2026-03-16",
+        "count": 0
+      },
+      {
+        "date": "2026-03-17",
+        "count": 0
+      },
+      {
+        "date": "2026-03-18",
+        "count": 0
+      },
+      {
+        "date": "2026-03-19",
+        "count": 0
+      },
+      {
+        "date": "2026-03-20",
+        "count": 0
+      },
+      {
+        "date": "2026-03-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-23",
+        "count": 1
+      },
+      {
+        "date": "2026-03-24",
+        "count": 1
+      },
+      {
+        "date": "2026-03-25",
+        "count": 2
+      },
+      {
+        "date": "2026-03-26",
+        "count": 3
+      },
+      {
+        "date": "2026-03-27",
+        "count": 3
+      },
+      {
+        "date": "2026-03-28",
+        "count": 0
+      },
+      {
+        "date": "2026-03-29",
+        "count": 0
+      },
+      {
+        "date": "2026-03-30",
+        "count": 0
+      },
+      {
+        "date": "2026-03-31",
+        "count": 0
+      },
+      {
+        "date": "2026-04-01",
+        "count": 0
+      },
+      {
+        "date": "2026-04-02",
+        "count": 0
+      },
+      {
+        "date": "2026-04-03",
+        "count": 0
+      },
+      {
+        "date": "2026-04-04",
+        "count": 0
+      },
+      {
+        "date": "2026-04-05",
+        "count": 0
+      },
+      {
+        "date": "2026-04-06",
+        "count": 2
+      },
+      {
+        "date": "2026-04-07",
+        "count": 1
+      },
+      {
+        "date": "2026-04-08",
+        "count": 2
+      },
+      {
+        "date": "2026-04-09",
+        "count": 0
+      },
+      {
+        "date": "2026-04-10",
+        "count": 0
+      },
+      {
+        "date": "2026-04-11",
+        "count": 2
+      },
+      {
+        "date": "2026-04-12",
+        "count": 0
+      },
+      {
+        "date": "2026-04-13",
+        "count": 0
+      },
+      {
+        "date": "2026-04-14",
+        "count": 0
+      },
+      {
+        "date": "2026-04-15",
+        "count": 1
+      },
+      {
+        "date": "2026-04-16",
+        "count": 0
+      },
+      {
+        "date": "2026-04-17",
+        "count": 0
+      },
+      {
+        "date": "2026-04-18",
+        "count": 0
+      },
+      {
+        "date": "2026-04-19",
+        "count": 0
+      },
+      {
+        "date": "2026-04-20",
+        "count": 0
+      },
+      {
+        "date": "2026-04-21",
+        "count": 0
+      },
+      {
+        "date": "2026-04-22",
+        "count": 0
+      },
+      {
+        "date": "2026-04-23",
+        "count": 0
+      },
+      {
+        "date": "2026-04-24",
+        "count": 0
+      },
+      {
+        "date": "2026-04-25",
+        "count": 2
+      },
+      {
+        "date": "2026-04-26",
+        "count": 1
+      },
+      {
+        "date": "2026-04-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-01",
+        "count": 0
+      },
+      {
+        "date": "2026-05-02",
+        "count": 1
+      },
+      {
+        "date": "2026-05-03",
+        "count": 0
+      },
+      {
+        "date": "2026-05-04",
+        "count": 1
+      },
+      {
+        "date": "2026-05-05",
+        "count": 0
+      },
+      {
+        "date": "2026-05-06",
+        "count": 0
+      },
+      {
+        "date": "2026-05-07",
+        "count": 7
+      },
+      {
+        "date": "2026-05-08",
+        "count": 5
+      },
+      {
+        "date": "2026-05-09",
+        "count": 0
+      },
+      {
+        "date": "2026-05-10",
+        "count": 0
+      },
+      {
+        "date": "2026-05-11",
+        "count": 0
+      },
+      {
+        "date": "2026-05-12",
+        "count": 0
+      },
+      {
+        "date": "2026-05-13",
+        "count": 3
+      },
+      {
+        "date": "2026-05-14",
+        "count": 3
+      },
+      {
+        "date": "2026-05-15",
+        "count": 0
+      },
+      {
+        "date": "2026-05-16",
+        "count": 0
+      },
+      {
+        "date": "2026-05-17",
+        "count": 0
+      },
+      {
+        "date": "2026-05-18",
+        "count": 0
+      },
+      {
+        "date": "2026-05-19",
+        "count": 0
+      },
+      {
+        "date": "2026-05-20",
+        "count": 0
+      },
+      {
+        "date": "2026-05-21",
+        "count": 0
+      },
+      {
+        "date": "2026-05-22",
+        "count": 0
+      },
+      {
+        "date": "2026-05-23",
+        "count": 0
+      },
+      {
+        "date": "2026-05-24",
+        "count": 0
+      },
+      {
+        "date": "2026-05-25",
+        "count": 0
+      },
+      {
+        "date": "2026-05-26",
+        "count": 0
+      },
+      {
+        "date": "2026-05-27",
+        "count": 1
+      },
+      {
+        "date": "2026-05-28",
+        "count": 1
+      },
+      {
+        "date": "2026-05-29",
+        "count": 5
+      },
+      {
+        "date": "2026-05-30",
+        "count": 2
+      },
+      {
+        "date": "2026-05-31",
+        "count": 0
+      },
+      {
+        "date": "2026-06-01",
+        "count": 1
+      },
+      {
+        "date": "2026-06-02",
+        "count": 0
+      },
+      {
+        "date": "2026-06-03",
+        "count": 8
+      },
+      {
+        "date": "2026-06-04",
+        "count": 6
+      },
+      {
+        "date": "2026-06-05",
+        "count": 0
+      },
+      {
+        "date": "2026-06-06",
+        "count": 2
+      },
+      {
+        "date": "2026-06-07",
+        "count": 0
+      },
+      {
+        "date": "2026-06-08",
+        "count": 0
+      },
+      {
+        "date": "2026-06-09",
+        "count": 1
+      },
+      {
+        "date": "2026-06-10",
+        "count": 0
+      },
+      {
+        "date": "2026-06-11",
+        "count": 0
+      },
+      {
+        "date": "2026-06-12",
+        "count": 0
+      },
+      {
+        "date": "2026-06-13",
+        "count": 0
+      },
+      {
+        "date": "2026-06-14",
+        "count": 0
+      },
+      {
+        "date": "2026-06-15",
+        "count": 0
+      },
+      {
+        "date": "2026-06-16",
+        "count": 0
+      },
+      {
+        "date": "2026-06-17",
+        "count": 0
+      },
+      {
+        "date": "2026-06-18",
+        "count": 0
+      },
+      {
+        "date": "2026-06-19",
+        "count": 0
+      },
+      {
+        "date": "2026-06-20",
+        "count": 0
+      },
+      {
+        "date": "2026-06-21",
+        "count": 0
+      },
+      {
+        "date": "2026-06-22",
+        "count": 0
+      },
+      {
+        "date": "2026-06-23",
+        "count": 0
+      },
+      {
+        "date": "2026-06-24",
+        "count": 3
+      },
+      {
+        "date": "2026-06-25",
+        "count": 0
+      },
+      {
+        "date": "2026-06-26",
+        "count": 2
+      },
+      {
+        "date": "2026-06-27",
+        "count": 0
+      },
+      {
+        "date": "2026-06-28",
+        "count": 1
+      },
+      {
+        "date": "2026-06-29",
+        "count": 0
+      },
+      {
+        "date": "2026-06-30",
+        "count": 0
+      },
+      {
+        "date": "2026-07-01",
+        "count": 0
+      },
+      {
+        "date": "2026-07-02",
+        "count": 0
+      },
+      {
+        "date": "2026-07-03",
+        "count": 0
+      },
+      {
+        "date": "2026-07-04",
+        "count": 0
+      },
+      {
+        "date": "2026-07-05",
+        "count": 0
+      },
+      {
+        "date": "2026-07-06",
+        "count": 0
+      },
+      {
+        "date": "2026-07-07",
+        "count": 0
+      },
+      {
+        "date": "2026-07-08",
+        "count": 0
+      },
+      {
+        "date": "2026-07-09",
+        "count": 1
+      },
+      {
+        "date": "2026-07-10",
+        "count": 7
+      },
+      {
+        "date": "2026-07-11",
+        "count": 6
+      },
+      {
+        "date": "2026-07-12",
+        "count": 1
+      },
+      {
+        "date": "2026-07-13",
+        "count": 0
+      },
+      {
+        "date": "2026-07-14",
+        "count": 0
+      },
+      {
+        "date": "2026-07-15",
+        "count": 0
+      },
+      {
+        "date": "2026-07-16",
+        "count": 2
+      },
+      {
+        "date": "2026-07-17",
+        "count": 0
+      },
+      {
+        "date": "2026-07-18",
+        "count": 0
+      },
+      {
+        "date": "2026-07-19",
+        "count": 0
+      },
+      {
+        "date": "2026-07-20",
+        "count": 0
+      },
+      {
+        "date": "2026-07-21",
+        "count": 0
+      },
+      {
+        "date": "2026-07-22",
+        "count": 4
+      },
+      {
+        "date": "2026-07-23",
+        "count": 14
+      },
+      {
+        "date": "2026-07-24",
+        "count": 12
+      },
+      {
+        "date": "2026-07-25",
+        "count": 7
+      },
+      {
+        "date": "2026-07-26",
+        "count": 5
+      },
+      {
+        "date": "2026-07-27",
+        "count": 8
+      },
+      {
+        "date": "2026-07-28",
+        "count": 0
+      },
+      {
+        "date": "2026-07-29",
+        "count": 0
+      },
+      {
+        "date": "2026-07-30",
+        "count": 0
+      },
+      {
+        "date": "2026-07-31",
+        "count": 0
+      },
+      {
+        "date": "2026-08-01",
+        "count": 0
+      },
+      {
+        "date": "2026-08-02",
+        "count": 7
+      },
+      {
+        "date": "2026-08-03",
+        "count": 1
+      },
+      {
+        "date": "2026-08-04",
+        "count": 4
+      },
+      {
+        "date": "2026-08-05",
+        "count": 9
+      },
+      {
+        "date": "2026-08-06",
+        "count": 0
+      },
+      {
+        "date": "2026-08-07",
+        "count": 1
+      },
+      {
+        "date": "2026-08-08",
+        "count": 0
+      },
+      {
+        "date": "2026-08-09",
+        "count": 1
+      },
+      {
+        "date": "2026-08-10",
+        "count": 3
+      },
+      {
+        "date": "2026-08-11",
+        "count": 6
+      },
+      {
+        "date": "2026-08-12",
+        "count": 1
+      },
+      {
+        "date": "2026-08-13",
+        "count": 4
+      },
+      {
+        "date": "2026-08-14",
+        "count": 2
+      },
+      {
+        "date": "2026-08-15",
+        "count": 0
+      },
+      {
+        "date": "2026-08-16",
+        "count": 2
+      },
+      {
+        "date": "2026-08-17",
+        "count": 0
+      },
+      {
+        "date": "2026-08-18",
+        "count": 2
+      },
+      {
+        "date": "2026-08-19",
+        "count": 2
+      },
+      {
+        "date": "2026-08-20",
+        "count": 0
+      },
+      {
+        "date": "2026-08-21",
+        "count": 0
+      },
+      {
+        "date": "2026-08-22",
+        "count": 0
+      },
+      {
+        "date": "2026-08-23",
+        "count": 0
+      },
+      {
+        "date": "2026-08-24",
+        "count": 0
+      },
+      {
+        "date": "2026-08-25",
+        "count": 0
+      },
+      {
+        "date": "2026-08-26",
+        "count": 0
+      },
+      {
+        "date": "2026-08-27",
+        "count": 0
+      },
+      {
+        "date": "2026-08-28",
+        "count": 0
+      },
+      {
+        "date": "2026-08-29",
+        "count": 0
+      },
+      {
+        "date": "2026-08-30",
+        "count": 0
+      },
+      {
+        "date": "2026-08-31",
+        "count": 0
+      },
+      {
+        "date": "2026-09-01",
+        "count": 0
+      },
+      {
+        "date": "2026-09-02",
+        "count": 0
+      },
+      {
+        "date": "2026-09-03",
+        "count": 0
+      },
+      {
+        "date": "2026-09-04",
+        "count": 0
+      },
+      {
+        "date": "2026-09-05",
+        "count": 0
+      },
+      {
+        "date": "2026-09-06",
+        "count": 0
+      },
+      {
+        "date": "2026-09-07",
+        "count": 0
+      },
+      {
+        "date": "2026-09-08",
+        "count": 0
+      },
+      {
+        "date": "2026-09-09",
+        "count": 0
+      },
+      {
+        "date": "2026-09-10",
+        "count": 1
+      },
+      {
+        "date": "2026-09-11",
+        "count": 5
+      },
+      {
+        "date": "2026-09-12",
+        "count": 0
+      },
+      {
+        "date": "2026-09-13",
+        "count": 5
+      },
+      {
+        "date": "2026-09-14",
+        "count": 10
+      },
+      {
+        "date": "2026-09-15",
+        "count": 1
+      },
+      {
+        "date": "2026-09-16",
+        "count": 0
+      },
+      {
+        "date": "2026-09-17",
+        "count": 0
+      },
+      {
+        "date": "2026-09-18",
+        "count": 0
+      },
+      {
+        "date": "2026-09-19",
+        "count": 0
+      },
+      {
+        "date": "2026-09-20",
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
+        "count": 0
+      },
+      {
+        "date": "2026-09-22",
+        "count": 0
+      },
+      {
+        "date": "2026-09-23",
+        "count": 0
+      },
+      {
+        "date": "2026-09-24",
+        "count": 0
+      },
+      {
+        "date": "2026-09-25",
+        "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "count": 2
+      },
+      {
+        "date": "2026-09-27",
+        "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
+        "count": 0
+      },
+      {
+        "date": "2026-09-30",
+        "count": 0
+      },
+      {
+        "date": "2026-10-01",
+        "count": 0
+      },
+      {
+        "date": "2026-10-02",
+        "count": 0
+      },
+      {
+        "date": "2026-10-03",
+        "count": 0
+      },
+      {
+        "date": "2026-10-04",
+        "count": 0
+      },
+      {
+        "date": "2026-10-05",
+        "count": 5
+      },
+      {
+        "date": "2026-10-06",
+        "count": 2
+      },
+      {
+        "date": "2026-10-07",
+        "count": 0
+      },
+      {
+        "date": "2026-10-08",
+        "count": 0
+      },
+      {
+        "date": "2026-10-09",
+        "count": 0
+      },
+      {
+        "date": "2026-10-10",
+        "count": 1
+      },
+      {
+        "date": "2026-10-11",
+        "count": 3
+      },
+      {
+        "date": "2026-10-12",
+        "count": 10
+      },
+      {
+        "date": "2026-10-13",
+        "count": 2
+      },
+      {
+        "date": "2026-10-14",
+        "count": 7
+      },
+      {
+        "date": "2026-10-15",
+        "count": 9
+      },
+      {
+        "date": "2026-10-16",
+        "count": 7
+      },
+      {
+        "date": "2026-10-17",
+        "count": 2
+      },
+      {
+        "date": "2026-10-18",
+        "count": 3
+      },
+      {
+        "date": "2026-10-19",
+        "count": 3
+      },
+      {
+        "date": "2026-10-20",
+        "count": 2
+      },
+      {
+        "date": "2026-10-21",
+        "count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "count": 0
+      },
+      {
+        "date": "2026-10-23",
+        "count": 1
+      },
+      {
+        "date": "2026-10-24",
+        "count": 17
+      },
+      {
+        "date": "2026-10-25",
+        "count": 12
+      },
+      {
+        "date": "2026-10-26",
+        "count": 5
+      },
+      {
+        "date": "2026-10-27",
+        "count": 6
+      },
+      {
+        "date": "2026-10-28",
+        "count": 1
+      },
+      {
+        "date": "2026-10-29",
+        "count": 0
+      },
+      {
+        "date": "2026-10-30",
+        "count": 12
+      },
+      {
+        "date": "2026-10-31",
+        "count": 27
+      },
+      {
+        "date": "2026-11-01",
+        "count": 95
+      },
+      {
+        "date": "2026-11-02",
+        "count": 0
+      },
+      {
+        "date": "2026-11-03",
+        "count": 27
+      },
+      {
+        "date": "2026-11-04",
+        "count": 24
+      },
+      {
+        "date": "2026-11-05",
+        "count": 17
+      },
+      {
+        "date": "2026-11-06",
+        "count": 13
+      },
+      {
+        "date": "2026-11-07",
+        "count": 19
+      },
+      {
+        "date": "2026-11-08",
+        "count": 16
+      },
+      {
+        "date": "2026-11-09",
+        "count": 11
+      },
+      {
+        "date": "2026-11-10",
+        "count": 14
+      },
+      {
+        "date": "2026-11-11",
+        "count": 2
+      },
+      {
+        "date": "2026-11-12",
+        "count": 8
+      },
+      {
+        "date": "2026-11-13",
+        "count": 7
+      },
+      {
+        "date": "2026-11-14",
+        "count": 11
+      },
+      {
+        "date": "2026-11-15",
+        "count": 0
+      },
+      {
+        "date": "2026-11-16",
+        "count": 5
+      },
+      {
+        "date": "2026-11-17",
+        "count": 16
+      },
+      {
+        "date": "2026-11-18",
+        "count": 13
+      },
+      {
+        "date": "2026-11-19",
+        "count": 3
+      },
+      {
+        "date": "2026-11-20",
+        "count": 0
+      },
+      {
+        "date": "2026-11-21",
+        "count": 13
+      },
+      {
+        "date": "2026-11-22",
+        "count": 3
+      },
+      {
+        "date": "2026-11-23",
+        "count": 3
+      },
+      {
+        "date": "2026-11-24",
+        "count": 6
+      },
+      {
+        "date": "2026-11-25",
+        "count": 11
+      },
+      {
+        "date": "2026-11-26",
+        "count": 2
+      }
+    ]
+  }
+}
